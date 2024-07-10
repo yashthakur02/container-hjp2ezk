@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "yashthakur02",
+  "repo": "container-hjp2ezk",
+  "name": "yashthakur02",
+  "email": "thakuryashrajsingh574@gmail.com",
+}
